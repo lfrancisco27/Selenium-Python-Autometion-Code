@@ -15,3 +15,5 @@ class DemoGetText():
 
 demobrowser = DemoGetText()
 demobrowser.demo_gettext()
+
+#new line added sdet1
